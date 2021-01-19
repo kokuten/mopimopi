@@ -1058,8 +1058,7 @@ l = {
                 ParryPct: d.ParryPct,
                 BlockPct: d.BlockPct,
                 mergedCures: d.mergedCures,
-                deaths: d.deaths,
-                percentile: d.percentile
+                deaths: d.deaths
             }
         }
     },
