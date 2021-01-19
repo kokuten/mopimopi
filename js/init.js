@@ -231,7 +231,7 @@ Mopi2 = {
     },    
     Order: {
         DPS: ["Class", "name", "encdps", "damagePct", "mergedDamage", "mergedSwings", "DirectHitPct", "crithitPct", "CritDirectHitPct", "maxhit","deaths", "percentile"],
-        HPS: ["Class", "name", "enchps", "healedPct", "mergedHealed", "mergedEffHealed", "mergedDamageShield", "mergedOverHeal", "overHealPct"]
+        HPS: ["Class", "name", "enchps", "healedPct", "mergedHealed", "mergedEffHealed", "mergedDamageShield", "mergedOverHeal", "overHealPct", "percentile"]
     },    
     ColData: {
         Class: {
