@@ -623,7 +623,7 @@ Mopi2 = {
             HPS: 0        
         },
         percentile: {
-            tt: "ÇœÅ[Ç”",
+            tt: "„Å±„Éº„Åµ",
             width: 40,
             padding: 0,
             alignHeader: "center",
