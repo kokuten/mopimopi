@@ -982,7 +982,8 @@ l = {
                 ParryPct: d.ParryPct,
                 BlockPct: d.BlockPct,
                 mergedCures: d.mergedCures,
-                deaths: d.deaths
+                deaths: d.deaths,
+                percentile: d.percentile
             }
         },
         tab_HPS: {
