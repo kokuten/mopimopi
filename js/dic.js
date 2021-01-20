@@ -692,7 +692,7 @@ d = {
         ul: 0
 	},
     percentile: {
-        tt: "Percentile",
+        tt: "Perf",
         m: {
             KR: "The current percentile of the combatant.",
             JP: "The current percentile of the combatant.",
