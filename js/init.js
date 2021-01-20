@@ -622,7 +622,7 @@ Mopi2 = {
             DPS: 1,
             HPS: 0        
         },
-        Percentile: {
+        percentile: {
             tt: "Pct",
             width: 40,
             padding: 0,
