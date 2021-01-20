@@ -228,6 +228,7 @@
         "misses": "0",
         "hitfailed": "0",
         "swings": "33",
+        "percentile": "80",
         "tohit": "100.00",
         "TOHIT": "100",
         "maxhit": "Broil-8,765",
