@@ -249,7 +249,7 @@
             "powerheal": "0",
             "kills": "0",
             "deaths": "1",
-            "percentile": "90",
+            "Percentile": "90",
             "threatstr": "+(0)0/-(0)0",
             "threatdelta": "0",
             "Last10DPS": "2628.40",
