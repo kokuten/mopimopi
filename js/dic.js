@@ -1183,6 +1183,5 @@ d = {
         },
         e: "li_2line_checkbox",
         ul: 0
-
     }
 }
