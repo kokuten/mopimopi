@@ -230,7 +230,7 @@ Mopi2 = {
         "Refulgent Arrow": "Ref.Arrow"
     },    
     Order: {
-        DPS: ["Class", "name", "encdps", "damagePct", "mergedDamage", "mergedSwings", "DirectHitPct", "crithitPct", "CritDirectHitPct", "maxhit","deaths", "percentile"],
+        DPS: ["Class", "name", "encdps", "damagePct", "mergedDamage", "mergedSwings", "DirectHitPct", "crithitPct", "CritDirectHitPct", "maxhit","deaths", "Percentile"],
         HPS: ["Class", "name", "enchps", "healedPct", "mergedHealed", "mergedEffHealed", "mergedDamageShield", "mergedOverHeal", "overHealPct"]
     },    
     ColData: {
@@ -622,8 +622,8 @@ Mopi2 = {
             DPS: 1,
             HPS: 0        
         },
-        percentile: {
-            tt: "percentile",
+        Percentile: {
+            tt: "Percentile",
             width: 40,
             padding: 0,
             alignHeader: "center",
