@@ -621,15 +621,6 @@ Mopi2 = {
             alignBody: "center",
             DPS: 1,
             HPS: 0        
-        },
-        percentile: {
-            tt: "Pct",
-            width: 40,
-            padding: 0,
-            alignHeader: "center",
-            alignBody: "center",
-            DPS: 1,
-            HPS: 0
         }
     }
 }
