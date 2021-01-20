@@ -623,7 +623,7 @@ Mopi2 = {
             HPS: 0        
         },
         Percentile: {
-            tt: "Percentile",
+            tt: "Pct",
             width: 40,
             padding: 0,
             alignHeader: "center",
