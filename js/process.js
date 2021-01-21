@@ -66,7 +66,7 @@ function update(lastDPS, lastHPS) {
     } else {
         var rd = "RD " + addComma(lastDPS.Encounter.ENCDPS) + "　"
         var rh = "RH " + addComma(lastHPS.Encounter.ENCHPS) + "　"
-        var md = "MD " + addComma(lastDPS.Combatant.YOU.percentile) + "　"
+        var md = "MD " + addComma(YOU.percentile) + "　"
         var mh = "MH " + addComma(lastHPS.Combatant.YOU.enchps) + "　"
         var rk = "Rank " + parseInt(lastDPS.Combatant.YOU.rank + 1) + "/" + parseInt(lastHPS.Combatant.YOU.rank + 1) + "/" + lastDPS.partys + "　"
         var msg = ''
