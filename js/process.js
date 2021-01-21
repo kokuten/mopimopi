@@ -349,6 +349,7 @@ function addData(colName, a, p) {
             return a
         case 'ParryPct':
         case 'BlockPct':
+        case 'percentile':
             return addComma(a) + '<font class="ex">%</font>';
         case 'dps':
         case 'mergedLast10DPS':
