@@ -563,6 +563,7 @@ function Person(e, p) {
         Last30DPS: this.Last30DPS,
         Last60DPS: this.Last60DPS,
         Last180DPS: this.Last180DPS,
+        percentile: this.percentile,
     };
     try {
         var regex = /(?:.*?)\((.*?)\)/im;
